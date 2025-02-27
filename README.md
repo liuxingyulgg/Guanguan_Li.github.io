@@ -35,4 +35,5 @@
 ## 公众号
 <p align="center">
     <img src="./公众号图标.jpg" width="40%"/>    
+    <p align="center">菜鸟的能源优化之路</p>
 </p>
