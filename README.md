@@ -4,7 +4,8 @@
 </h1>
 <div align="center">
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
+https://github.com/liuxingyulgg/Guanguan_Li.github.io/blob/main/2024%E5%B9%B4%E6%95%99%E5%B8%88%E8%8A%82.jpg
+[![](https://github.com/liuxingyulgg/Guanguan_Li.github.io/blob/main/2024%E5%B9%B4%E6%95%99%E5%B8%88%E8%8A%82.jpg)
 [![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
 [![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
 [![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [English README](../README.md) 
