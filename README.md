@@ -5,12 +5,8 @@
 
 ## 团队成员
 - **教师**: 李冠冠
-- **研二**: 王广宏
-- **研一**: 吴修菊、杨传浩
-
-
-
-
+- **研二（2023级）**: 王广宏
+- **研一（2024级）**: 吴修菊、杨传浩
 <div align="center">
 
 [![](https://github.com/liuxingyulgg/Guanguan_Li.github.io/blob/main/2024%E5%B9%B4%E6%95%99%E5%B8%88%E8%8A%82.jpg)
