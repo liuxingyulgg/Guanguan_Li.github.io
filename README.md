@@ -14,6 +14,10 @@
 
 ## 论文
 - 赵杰, 王聪, 李冠冠*, 等. 考虑需求响应的多微网P2P能源交易低碳运行策略[J]. 电力建设, 2023, 44(12): 54-65.
+- Guanguan Li, Qiqiang Li, Yi Liu, et al. A cooperative Stackelberg game based energy management considering price discrimination and risk assessment. International Journal of Electrical Power & Energy Systems, 2022, 135: 107461. 
+- Guanguan Li, Qiqiang Li, W Song, et al. Incentivizing distributed energy trading among prosumers: A general Nash bargaining approach. International Journal of Electrical Power & Energy Systems, 2021, 131: 107100. 
+- Guanguan Li, Qiqiang Li, Xue Yang, et al. General Nash bargaining based direct P2P energy trading among prosumers under multiple uncertainties. International Journal of Electrical Power & Energy Systems. 2022, 108403. 
+- Rui Wang, Qiqiang Li, Guanguan Li, et al. A gossip-based distributed algorithm for economic dispatch in smart grids with random communication link failures. IEEE Transactions on Industrial Electronics, 2019, 67(6): 4635–4645. 
 
 ## 专利
 - 李冠冠, 王广宏, 杨雪, 等. 一种基于负荷灵敏度分析的电力系统经济调度方法[P]. CN202410756216.4, 2024-08-16.
