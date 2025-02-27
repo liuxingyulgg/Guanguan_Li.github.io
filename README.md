@@ -34,6 +34,6 @@
 
 ## 团队活动
 <p align="center">
-    <img src="./2024年教师节.jpg" width="65%"/>    
+    <img src="./2024年教师节.jpg" width="55%"/>    
     <p align="center">2024年教师节合影（郭海洋、吴修菊、李冠冠、王广宏、杨传浩）</p>
 </p>
