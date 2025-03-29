@@ -26,11 +26,20 @@
 - 王广宏. 2024年亚太地区大学生数学建模竞赛(APMCM), 三等奖, 2025-01-08.
 - 贾博涵, 李明哲. 第十六届中国电工杯数学建模大赛, 三等奖, 2024-08-05.（指导教师：李冠冠）
 
-## 公众号
+## 团队资源
+- 公众号
 <p align="center">
     <img src="./公众号图标.jpg" width="25%"/>    
     <p align="center">菜鸟的能源优化之路</p>
 </p>
+- AI工具
+<p align="center">
+    <img src="./Sider截图.png" width="25%"/>    
+    <p align="center">AI工具</p>
+</p>
+
+
+
 
 ## 团队活动
 <p align="center">
