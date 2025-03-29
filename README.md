@@ -37,7 +37,7 @@
 - AI辅助工具
 <p align="center">
     <img src="./Sider截图.png" width="25%"/>    
-    <p align="center">AI工具</p>
+    <p align="center">AI辅助工具-Sider</p>
 </p>
 
 ## 团队活动
