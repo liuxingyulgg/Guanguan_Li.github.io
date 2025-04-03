@@ -8,6 +8,10 @@
 - **研二（2023级）**: 王广宏
 - **研一（2024级）**: 吴修菊、杨传浩
 
+## 团队研究方向
+- 电力市场与能源交易
+- 复杂系统建模与优化
+
 ## 团队论文
 - 赵杰, 王聪, 李冠冠*, 等. 考虑需求响应的多微网P2P能源交易低碳运行策略[J]. 电力建设, 2023, 44(12): 54-65.
 - Guanguan Li, Qiqiang Li, Yi Liu, et al. A cooperative Stackelberg game based energy management considering price discrimination and risk assessment. International Journal of Electrical Power & Energy Systems, 2022, 135: 107461. 
